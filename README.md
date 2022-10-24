@@ -3,7 +3,7 @@
 ~~~
 180.163.151.34 translate.googleapis.com
 ~~~
-2.  或者通过[SwitchHosts](https://swh.app/zh)来配置。Host类型选择远程，在URL栏填入一下地址   
+2.  或者通过[SwitchHosts](https://swh.app/zh)来配置。Host类型选择远程，在URL栏填入以下地址   
 ~~~
 https://raw.githubusercontent.com/bovindev/google-translate-host/master/hosts
 ~~~
